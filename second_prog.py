@@ -1,0 +1,7 @@
+print("30 - Days python and agentic ai course ")
+trainer_name = input("Enter the name:")
+trainer_ph_num = int(input("Enter the trainer number:"))
+trainer_email_id = input("Enter the Email ID:")
+print("Trainer name: ",trainer_name)
+print("Trainer Number: ",trainer_ph_num)
+print("Trainer Email Id: ",trainer_email_id)                   
